@@ -1006,7 +1006,7 @@ details > p {
         background-color: #303030;
         display:none ;
         padding: 2.0rem;
-        width: 90%;
+        width: auto;
         margin: auto;
         /* max-height: 3.0rem; */
         max-height: auto;
